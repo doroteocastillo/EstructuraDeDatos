@@ -7,4 +7,6 @@ print("Última:", temperaturas[-1])
 
 temperaturas.append(30)
 
+print("Última:", temperaturas[-1])
+
 print("Nueva lista:", temperaturas)
